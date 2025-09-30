@@ -1,0 +1,316 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "title": "JavaScript Docs",
+      "category": "Documentation",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "like": 1,
+      "dislike": 1
+    },
+    {
+      "id": 2,
+      "title": "React Docs",
+      "category": "Documentation",
+      "url": "https://react.dev/",
+      "like": 5,
+      "dislike": 0
+    },
+    {
+      "id": 3,
+      "title": "Node.js Docs",
+      "category": "Documentation",
+      "url": "https://nodejs.org/en/docs/",
+      "like": 2,
+      "dislike": 0
+    },
+    {
+      "id": 4,
+      "title": "GeeksforGeeks DSA",
+      "category": "DSA Practice",
+      "url": "https://www.geeksforgeeks.org/data-structures/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 5,
+      "title": "LeetCode",
+      "category": "DSA Practice",
+      "url": "https://leetcode.com/",
+      "like": 2,
+      "dislike": 0
+    },
+    {
+      "id": 6,
+      "title": "Codeforces",
+      "category": "DSA Practice",
+      "url": "https://codeforces.com/",
+      "like": 1,
+      "dislike": 0
+    },
+    {
+      "id": 7,
+      "title": "HackerRank",
+      "category": "DSA Practice",
+      "url": "https://www.hackerrank.com/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 8,
+      "title": "Roadmap.sh",
+      "category": "Roadmaps",
+      "url": "https://roadmap.sh/",
+      "like": 1,
+      "dislike": 0
+    },
+    {
+      "id": 9,
+      "title": "CS50 Harvard Course",
+      "category": "Courses",
+      "url": "https://cs50.harvard.edu/x/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 10,
+      "title": "MIT OpenCourseWare - Algorithms",
+      "category": "Courses",
+      "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 11,
+      "title": "System Design Primer (GitHub)",
+      "category": "System Design",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 12,
+      "title": "Design Gurus",
+      "category": "System Design",
+      "url": "https://www.designgurus.io/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 13,
+      "title": "Cheatsheets.dev",
+      "category": "Cheatsheets",
+      "url": "https://devhints.io/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 14,
+      "title": "OverAPI",
+      "category": "Cheatsheets",
+      "url": "https://overapi.com/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 15,
+      "title": "Big O Cheatsheet",
+      "category": "Cheatsheets",
+      "url": "https://www.bigocheatsheet.com/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 16,
+      "title": "FreeCodeCamp",
+      "category": "Courses",
+      "url": "https://www.freecodecamp.org/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 17,
+      "title": "Exercism",
+      "category": "Practice",
+      "url": "https://exercism.org/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 18,
+      "title": "Codewars",
+      "category": "Practice",
+      "url": "https://www.codewars.com/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 19,
+      "title": "Project Euler",
+      "category": "Practice",
+      "url": "https://projecteuler.net/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 20,
+      "title": "Awesome CS (GitHub)",
+      "category": "Collections",
+      "url": "https://github.com/ossu/computer-science",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 21,
+      "title": "CS Visualizations",
+      "category": "Learning Tools",
+      "url": "https://visualgo.net/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 22,
+      "title": "Regex101",
+      "category": "Tools",
+      "url": "https://regex101.com/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 23,
+      "title": "JSON Formatter",
+      "category": "Tools",
+      "url": "https://jsonformatter.org/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 24,
+      "title": "Crontab Guru",
+      "category": "Tools",
+      "url": "https://crontab.guru/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 25,
+      "title": "DevDocs",
+      "category": "Documentation",
+      "url": "https://devdocs.io/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 26,
+      "title": "Stack Overflow",
+      "category": "Community",
+      "url": "https://stackoverflow.com/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 27,
+      "title": "Reddit r/cscareerquestions",
+      "category": "Community",
+      "url": "https://www.reddit.com/r/cscareerquestions/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 28,
+      "title": "GitHub Explore",
+      "category": "Open Source",
+      "url": "https://github.com/explore",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 29,
+      "title": "First Contributions",
+      "category": "Open Source",
+      "url": "https://github.com/firstcontributions/first-contributions",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 30,
+      "title": "Open Source Ideas",
+      "category": "Open Source",
+      "url": "https://github.com/open-source-ideas/open-source-ideas",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 31,
+      "title": "CS Theory Handbook",
+      "category": "Theory",
+      "url": "https://introtcs.org/public/index.html",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 32,
+      "title": "Compiler Explorer",
+      "category": "Tools",
+      "url": "https://godbolt.org/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 33,
+      "title": "Linux Journey",
+      "category": "Courses",
+      "url": "https://linuxjourney.com/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 34,
+      "title": "How HTTPS Works",
+      "category": "Theory",
+      "url": "https://howhttps.works/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 35,
+      "title": "Khan Academy Algorithms",
+      "category": "Courses",
+      "url": "https://www.khanacademy.org/computing/computer-science/algorithms",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 36,
+      "title": "Scotch.io",
+      "category": "Learning",
+      "url": "https://scotch.io/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 37,
+      "title": "The Odin Project",
+      "category": "Courses",
+      "url": "https://www.theodinproject.com/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 38,
+      "title": "Real Python",
+      "category": "Documentation",
+      "url": "https://realpython.com/",
+      "like": 0,
+      "dislike": 0
+    },
+    {
+      "id": 39,
+      "title": "JavaPoint DSA",
+      "category": "DSA Practice",
+      "url": "https://www.javatpoint.com/data-structure-tutorial",
+      "like": 0,
+      "dislike": 0
+    }
+  ]
+}
