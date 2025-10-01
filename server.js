@@ -72,6 +72,7 @@ app.get('/resources', authmiddleware, async (req, res) => {
       url: resource.url,
       userId: resource.userId, 
       likes: resource.likes,
+      saved:resource.saves,
       noOfLikes: resource.likes ? resource.likes.length : 0,
       isLikedByUser: resource.likes ? 
         resource.likes.some(id=>id.toString()===currentUser.toString()):false,
